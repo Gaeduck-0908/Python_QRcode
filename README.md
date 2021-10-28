@@ -1,6 +1,6 @@
 ## Python
 ### 간단한 QR코드 생성기
-### 블로그 해설 https://blog.naver.com/gms8757/222513396725
+### 블로그 해설 https://gaeduck-it.tistory.com/18?category=1015650
 #### 만들 링크 입력.
 ![image](https://user-images.githubusercontent.com/82009667/135587817-09f64c4e-797c-44fd-bb3d-40085bfa97a7.png)
 #### 저장명 입력.
